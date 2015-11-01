@@ -23,7 +23,7 @@ There are no other nodeJS libraries that ADM-ZIP is dependent of
 ## Basic usage
 ```javascript
 
-	var AdmZip = require('adm-zip');
+	var AdmZip = require('electron-adm-zip');
 
 	// reading archives
 	var zip = new AdmZip("./my_file.zip");
