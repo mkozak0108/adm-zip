@@ -1,12 +1,12 @@
-# ADM-ZIP for NodeJS
-
+# ELECTRON-ADM-ZIP for Electron
+fork from [ADM-ZIP](https://github.com/cthackers/adm-zip)
 ADM-ZIP is a pure JavaScript implementation for zip data compression for [NodeJS](http://nodejs.org/). 
 
 # Installation
 
 With [npm](http://npmjs.org) do:
 
-    $ npm install adm-zip
+    $ npm install --save "git+https://github.com/mkozak0108/electron-adm-zip.git"
 	
 ## What is it good for?
 The library allows you to:
